@@ -1,0 +1,2 @@
+../testFolder1/ "*.txt" 5
+../testFolder2/ "*.txt" 10
